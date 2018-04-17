@@ -1,5 +1,5 @@
 # baseURL should be
-# "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
+# "https://stijnbruers.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
 baseURL = "https://rtcharity.github.io/lean-site-template/"
 theme = "local-ea-template"
@@ -18,20 +18,20 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "EA Belgium"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
+  fullTitle = "Effective Altruism Belgium"
   strapline = "Helping you do good better"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
-  legalOrgName = "Effective Altruism <City Here>"
-  orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  legalOrgName = "Effective Altruism Belgium"
+  orgLocations = "Belgium"
+  contactEmail = "info@eabelgium.org"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -74,10 +74,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
-  firstButtonLink = ""
-  secondButtonText = "Second Button Text"
-  secondButtonLink = ""
+  firstButtonText = "Join our Facebook community"
+  firstButtonLink = "https://www.facebook.com/groups/601484656706830/"
+  secondButtonText = "Join us on twitter"
+  secondButtonLink = "https://twitter.com/ea_vla"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -85,6 +85,6 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = ""
-  twitterUrl = ""
-  meetupUrl = ""
+  facebookUrl = "https://www.facebook.com/groups/601484656706830/"
+  twitterUrl = "https://twitter.com/ea_vla"
+  #meetupUrl = ""
