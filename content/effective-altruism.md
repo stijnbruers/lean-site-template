@@ -18,6 +18,7 @@ Effective Altruism Belgium is a Belgian non-profit organization and the umbrella
 
 * [Effective Altruism KULeuven](https://www.facebook.com/effectivealtruismkuleuven/?hc_ref=ARSci87vYR5aIcP1XwsjRj9lXLGOP9xKZk6HNdubSNsOvD-uwYRQagZVTKEacrwgwFU)
 
+
 Some of our activities include:
 
 - giving lectures and workshops on effective altruism and related topics,
@@ -31,6 +32,7 @@ Some of our activities include:
 - examining important measures to improve the world,
 
 - raising funds for national and international effective altruistic organizations.
+
 
 
 Support us
