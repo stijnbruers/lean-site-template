@@ -11,9 +11,9 @@ Effective altruism is a philosophy and social movement that applies evidence and
 #About EA Belgium
 
 Effective Altruism Belgium is a Belgian non-profit organization and the umbrella organization of all Belgian effective altruism groups, including
-Effectief Altruïsme Vlaanderen 
-Effective Altruism Brussels
-Effective Altruism KULeuven
+* [Effectief Altruïsme Vlaanderen](https://eavlaanderen.org/)
+* [Effective Altruism Brussels](https://www.facebook.com/groups/387535228103244/)
+* [Effective Altruism KULeuven](https://www.facebook.com/effectivealtruismkuleuven/?hc_ref=ARSci87vYR5aIcP1XwsjRj9lXLGOP9xKZk6HNdubSNsOvD-uwYRQagZVTKEacrwgwFU)
 
 Some of our activities include:
 - giving lectures and workshops on effective altruism and related topics,
