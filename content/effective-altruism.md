@@ -29,7 +29,7 @@ Some of our activities include:
 
 
 
-Support us
+## Support us
 
 Would you also like to support our operations? Make a donation to account number BE06 9731 6273 5722 of Effective Altruism Belgium.
 
