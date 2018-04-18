@@ -1,7 +1,7 @@
-# baseURL should be
+b# baseURL should be
 # "https://stijnbruers.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
-baseURL = "https://stijnbruers.github.io/lean-site-template/"
+baseURL = "https://eabelgium.org"
 theme = "local-ea-template"
 canonifyURLs = true
 
