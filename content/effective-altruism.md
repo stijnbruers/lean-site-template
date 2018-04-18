@@ -17,11 +17,9 @@ Some of our activities include:
 
 - giving lectures and workshops on effective altruism and related topics,
 
-- giving advice on effective charities, volunteer work and high-impact ethical careers,
+- giving advice on effective charities, volunteer work, high-impact ethical careers, campaigns and policies
 
 - organizing events and conferences on effective altruism,
-
-- assessing the effectiveness of charities,
 
 - examining important measures to improve the world,
 
