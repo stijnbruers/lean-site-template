@@ -136,7 +136,7 @@ DefaultContentLanguage = "en"
   leadText = "We zijn mensen die je willen helpen met het antwoord op de vraag: hoe kun je beter goed doen?"
   firstSectionHeader = "Beter worden in goed doen"
   secondSectionHeader = "Een gemeenschap opbouwen"
-  thirdSectionHeader = "Beter manieren vinden om te helpen"
+  thirdSectionHeader = "Betere manieren vinden om te helpen"
   bottomBannerText = "Lid van het effectief altruïsme netwerk"
 
   [Languages.nl.contactform]
