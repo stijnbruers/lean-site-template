@@ -20,7 +20,7 @@ Activiteiten van Effectief Altruisme België zijn onder meer:
 
 -het geven van advies over effectieve goede doelen, vrijwilligerswerk en hoge-impact ethische carrières,
 
--het organiseren van evenementen en conferenties over effectief altruïsme
+-het organiseren van evenementen en conferenties over effectief altruïsme,
 
 -het inschatten van de effectiviteit van goede doelen,
 
