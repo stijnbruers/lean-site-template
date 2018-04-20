@@ -15,14 +15,22 @@ Effectief altruïsme is een filosofie en mondiale sociale beweging die wetenscha
 Effectief altruïsten proberen alle oorzaken en acties te overwegen en handelen dan op de manier die de grootste positieve impact teweegbrengt. Het is deze brede evidence-based benadering die effectief altruïsme onderscheidt van traditioneel altruïsme. Hoewel een substantieel deel van de effectief altruïsten zich richt op de non-profitsector, is de filosofie van effectief altruïsme veel breder toepasbaar, bijvoorbeeld door prioriteit te geven aan wetenschappelijke projecten, bedrijven en beleidsinitiatieven die naar verwachting de meeste levens redden en verbeteren.
 
 Activiteiten van Effectief Altruisme België zijn onder meer:
+
 -het geven van lezingen en workshops over effectief altruïsme en gerelateerde onderwerpen,
+
 -het geven van advies over effectieve goede doelen, vrijwilligerswerk en hoge-impact ethische carrières,
+
 -het organiseren van evenementen en conferenties over effectief altruïsme
+
 -het inschatten van de effectiviteit van goede doelen,
+
 -het onderzoeken van belangrijke maatregelen om de wereld te verbeteren,
+
 -het inzamelen van fondsen ten voordele van nationale en internationale effectief altruïstische organisaties.
 
 
-Steun ons
+
+## Steun ons
+
 Wilt u ook onze werking steunen? Doe dan een gift op rekeningnummer BE06 9731 6273 5722 van Effectief Altruïsme België.
 
