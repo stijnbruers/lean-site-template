@@ -1,4 +1,4 @@
-#### Nuttige links
+#### Nuttige links 
 
 * [Effectief Altruïsme Vlaanderen](https://eavlaanderen.org/)
 * [Effective Altruism Brussels](https://www.facebook.com/groups/387535228103244/)
