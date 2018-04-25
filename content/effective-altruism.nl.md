@@ -26,7 +26,8 @@ Activiteiten van Effectief Altruisme België zijn onder meer:
 
 -het onderzoeken van belangrijke maatregelen om de wereld te verbeteren,
 
--het inzamelen van fondsen ten voordele van nationale en internationale effectief altruïstische organisaties.
+-het inzamelen van fondsen ten voordele van nationale en internationale effectief altruïstische organisaties.                    
+
 
 
 
