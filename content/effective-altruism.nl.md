@@ -31,6 +31,17 @@ Activiteiten van Effectief Altruisme België zijn onder meer:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Steun ons
 
 Wilt u ook onze werking steunen? Doe dan een gift op rekeningnummer BE06 9731 6273 5722 van Effectief Altruïsme België.
