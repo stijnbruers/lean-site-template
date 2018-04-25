@@ -3,7 +3,7 @@
 # and "your-ea-domain.org/" after your domain has been set up.
 baseURL = "https://eabelgium.org/"
 theme = "local-ea-template"
-canonifyURLs = true
+# canonifyURLs = true
 
 # If you are using multiple languages and want a different default,
 # you can change this language code. In this particular case,
@@ -89,15 +89,9 @@ DefaultContentLanguage = "en"
   twitterUrl = "https://twitter.com/ea_vla"
   #meetupUrl = ""
 
-
-
-
-
-
-
  [Languages.nl]
   title = "EA België"
-  weight = 1
+  weight = 2
   languageCode = "nl"
 
   [Languages.nl.general]
