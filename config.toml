@@ -117,10 +117,10 @@ DefaultContentLanguage = "en"
   # but if you do you'll also want to change the relevant .md file under the
   # content folder so the copy corresponds with the header.
   home = "Home"
-  faq = "FAQ"
+  # faq = "FAQ"
   effectiveAltruism = "Effectief Altruïsme"
   aboutEA = "Over EA België"
-  readingMaterial = "Leesmateriaal"
+  # readingMaterial = "Leesmateriaal"
   keyTerms = "Kernbegrippen"
   organizations = "Organizaties"
   contact= "Contact"
