@@ -160,4 +160,82 @@ DefaultContentLanguage = "en"
   facebookUrl = "https://www.facebook.com/groups/601484656706830/"
   twitterUrl = "https://twitter.com/ea_vla"
   #meetupUrl = ""
+  
+  
+  
+  
+  
+  
+  
+  [Languages.fr]
+  title = "AE Belgique"
+  weight = 2
+  languageCode = "fr"
+
+  [Languages.fr.general]
+  ## -- GENERAL SITE PARAMETERS -- ##
+  fullTitle = "Altruisme Efficace Belgique"
+  strapline = "Vous aide à faire le bien, mieux"
+
+  [Languages.fr.groupinfo]
+  ## -- EA GROUP INFO -- ##
+  legalOrgName = "Altruisme Efficace Belgique"
+  orgLocations = "Belgique"
+  contactEmail = "info@eabelgium.org"
+
+  [Languages.fr.navbar]
+  ## -- NAVIGATION BAR HEADERS -- ##
+  # You probably don't need/want to change these,
+  # but if you do you'll also want to change the relevant .md file under the
+  # content folder so the copy corresponds with the header.
+  home = "Acceuil"
+  # faq = "FAQ"
+  effectiveAltruism = "Altruisme Efficace"
+  aboutEA = "À propos AE Belgique"
+  # readingMaterial = "Leesmateriaal"
+  keyTerms = "Mots clés"
+  organizations = "Organisations"
+  contact= "Contact"
+
+  [Languages.fr.pages]
+  ## -- PAGE HEADERS -- ##
+  contactPageHeader = "Contactez nous"
+  aboutEAPageHeader = "C'est quoi l'Altruisme Efficace?"
+
+  [Languages.fr.homepage]
+   ## -- HOMEPAGE -- ##
+  topBannerText = "Qui sommes nous?"
+  leadText = "Nous sommes un group de gens qui veulent vous aider à répondre à la question: comment puis-je faire le bien, mieux?"
+  firstSectionHeader = "Faire le bien, mieux"
+  secondSectionHeader = "Bâtir une communauté"
+  thirdSectionHeader = "Trouver de meilleures façons d'aider"
+  bottomBannerText = "Un groupe fièrement membre du réseau d’altruisme efficace"
+
+  [Languages.fr.contactform]
+  ## -- CONTACT FORM -- ##
+  leadText = "Dites Allô!"
+  senderName = "Votre nom (requis):"
+  senderEmail = "Votre courriel (requis):"
+  emailSubject = "Sujet"
+  emailMessage = "Votre message:"
+  send = "Envoyer"
+
+  [Languages.fr.jumbotron]
+  # These are the buttons right under the header that appears on the main page.
+  # You can use them to link to a mailing list or Facebook page.
+  # Make sure the links start with http:// or https://
+  firstButtonText = "Page Facebook"
+  firstButtonLink = "https://www.facebook.com/groups/601484656706830/"
+  secondButtonText = "Twitter"
+  secondButtonLink = "https://twitter.com/ea_vla"
+  # Remove the # before the text to add the optional Meetup button
+  # meetupButtonText = "Find us on Meetup"
+
+  [Languages.fr.urls]
+  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
+  # If your group does not have URLs for these, just add # before the line
+  # to remove the link from the site
+  facebookUrl = "https://www.facebook.com/groups/601484656706830/"
+  twitterUrl = "https://twitter.com/ea_vla"
+  #meetupUrl = ""
 
