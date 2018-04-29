@@ -1,4 +1,4 @@
-## Organizaties
+## Organisaties
 
 **80,000 Hours (80K)**: een organisatie die gratis persoonlijk carrièreadvies geeft aan mensen die van plan zijn hun carrière in te zetten om zo veel mogelijk goed te doen voor de wereld. 80K publiceert algemeen onderzoek op haar website omtrent de sociale impact van carrières. Website: www.80000hours.org
 
