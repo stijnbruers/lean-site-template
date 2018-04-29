@@ -116,7 +116,7 @@ DefaultContentLanguage = "en"
   aboutEA = "Over EA België"
   # readingMaterial = "Leesmateriaal"
   keyTerms = "Kernbegrippen"
-  organizations = "Organizaties"
+  organizations = "Organisaties"
   contact= "Contact"
 
   [Languages.nl.pages]
