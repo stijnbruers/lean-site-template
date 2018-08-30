@@ -78,8 +78,8 @@ DefaultContentLanguage = "en"
   firstButtonLink = "https://www.facebook.com/groups/601484656706830/"
   secondButtonText = "Join us on Twitter"
   secondButtonLink = "https://twitter.com/ea_vla"
-  thirdButtonText = "Get our newsletter"
-  thirdButtonLink = "http://eepurl.com/cmjRhj"
+  meetupButtonText = "Get our newsletter"
+  meetupButtonLink = "http://eepurl.com/cmjRhj"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -89,7 +89,7 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/601484656706830/"
   twitterUrl = "https://twitter.com/ea_vla"
-  #meetupUrl = ""
+  meetupUrl = "http://eepurl.com/cmjRhj"
 
  [Languages.nl]
   title = "EA België"
@@ -152,8 +152,8 @@ DefaultContentLanguage = "en"
   firstButtonLink = "https://www.facebook.com/groups/601484656706830/"
   secondButtonText = "Volg ons op Twitter"
   secondButtonLink = "https://twitter.com/ea_vla"
-  thirdButtonText = "Ontvang onze nieuwsbrief"
-  thirdButtonLink = "http://eepurl.com/cmjRhj"
+  meetupButtonText = "Ontvang onze nieuwsbrief"
+  meetupButtonLink = "http://eepurl.com/cmjRhj"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -163,7 +163,7 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/601484656706830/"
   twitterUrl = "https://twitter.com/ea_vla"
-  #meetupUrl = ""
+  meetupUrl = "http://eepurl.com/cmjRhj"
   
   
   
@@ -232,8 +232,8 @@ DefaultContentLanguage = "en"
   firstButtonLink = "https://www.facebook.com/groups/601484656706830/"
   secondButtonText = "Twitter"
   secondButtonLink = "https://twitter.com/ea_vla"
-  thirdButtonText = "Newsletter"
-  thirdButtonLink = "http://eepurl.com/cmjRhj"
+  meetupButtonText = "Newsletter"
+  meetupButtonLink = "http://eepurl.com/cmjRhj"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -243,5 +243,5 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/601484656706830/"
   twitterUrl = "https://twitter.com/ea_vla"
-  #meetupUrl = ""
+  meetupUrl = "http://eepurl.com/cmjRhj"
 
