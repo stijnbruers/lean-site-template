@@ -7,11 +7,11 @@ draft: false
 ## Newsletter
 <br>
 
-#### Subscribe to EA Flanders newsletter, which is in Dutch, [here](http://eepurl.com/cmjRhj).
+#### Subscribe to the EA Flanders newsletter, which is in Dutch, [here](http://eepurl.com/cmjRhj).
 We send about 4 emails per year.
 
 
-#### Subscribe to EA Brussels newsletter [here](http://eepurl.com/dH81zT).
+#### Subscribe to the EA Brussels newsletter [here](http://eepurl.com/dH81zT).
 This one isn't active yet, but may be in the future.
 
 
