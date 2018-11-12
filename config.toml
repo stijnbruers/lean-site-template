@@ -80,7 +80,7 @@ DefaultContentLanguage = "en"
   secondButtonText = "Join us on Twitter"
   secondButtonLink = "https://twitter.com/ea_vla"
   meetupButtonText = "Get our newsletter"
-  meetupButtonLink = "http://eepurl.com/cmjRhj"
+  meetupButtonLink = "https://eabelgium.org/newsletter/"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -90,7 +90,7 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/601484656706830/"
   twitterUrl = "https://twitter.com/ea_vla"
-  meetupUrl = "http://eepurl.com/cmjRhj"
+  meetupUrl = "https://eabelgium.org/newsletter/"
 
  [Languages.nl]
   title = "EA België"
