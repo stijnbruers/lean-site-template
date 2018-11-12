@@ -228,7 +228,7 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Page Facebook"
+  firstButtonText = "Groupe Facebook"
   firstButtonLink = "https://www.facebook.com/groups/601484656706830/"
   secondButtonText = "Twitter"
   secondButtonLink = "https://twitter.com/ea_vla"
