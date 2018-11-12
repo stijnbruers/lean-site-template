@@ -154,7 +154,7 @@ DefaultContentLanguage = "en"
   secondButtonText = "Volg ons op Twitter"
   secondButtonLink = "https://twitter.com/ea_vla"
   meetupButtonText = "Ontvang onze nieuwsbrief"
-  meetupButtonLink = "http://eepurl.com/cmjRhj"
+  meetupButtonLink = "https://eabelgium.org/nl/newsletter/"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -164,7 +164,7 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/601484656706830/"
   twitterUrl = "https://twitter.com/ea_vla"
-  meetupUrl = "http://eepurl.com/cmjRhj"
+  meetupUrl = "https://eabelgium.org/nl/newsletter/"
   
   
   
@@ -234,7 +234,7 @@ DefaultContentLanguage = "en"
   secondButtonText = "Twitter"
   secondButtonLink = "https://twitter.com/ea_vla"
   meetupButtonText = "Newsletter"
-  meetupButtonLink = "http://eepurl.com/cmjRhj"
+  meetupButtonLink = "https://eabelgium.org/fr/newsletter/"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -244,5 +244,5 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/601484656706830/"
   twitterUrl = "https://twitter.com/ea_vla"
-  meetupUrl = "http://eepurl.com/cmjRhj"
+  meetupUrl = "https://eabelgium.org/fr/newsletter/"
 
