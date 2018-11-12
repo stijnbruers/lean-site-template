@@ -1,10 +1,10 @@
 ---
-title: "Bulletin"
+title: "Newsletter"
 date: 2018-11-12T02:15:52-08:00
 draft: false
 ---
 
-## Bulletin
+## Newsletter
 <br>
 
 #### Inscrivez-vous à notre newsletter néerlandaise de Altruisme Efficace Flandre [ici](http://eepurl.com/cmjRhj).
