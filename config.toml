@@ -90,7 +90,7 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/601484656706830/"
   twitterUrl = "https://twitter.com/ea_vla"
-  meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
+  # meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
 
  [Languages.nl]
   title = "EA België"
@@ -164,7 +164,7 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/601484656706830/"
   twitterUrl = "https://twitter.com/ea_vla"
-  meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
+  # meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
   
   
   
@@ -244,5 +244,5 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/601484656706830/"
   twitterUrl = "https://twitter.com/ea_vla"
-  meetupUrl = "hhttps://www.meetup.com/Effective-Altruism-Brussels/"
+  # meetupUrl = "https://www.meetup.com/Effective-Altruism-Brussels/"
 
