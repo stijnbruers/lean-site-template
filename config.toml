@@ -79,6 +79,8 @@ DefaultContentLanguage = "en"
   firstButtonLink = "https://www.facebook.com/groups/601484656706830/"
   secondButtonText = "Join us on Twitter"
   secondButtonLink = "https://twitter.com/ea_vla"
+  thirdButtonText = "Get our newsletter"
+  thirdButtonLink = "https://eabelgium.org/newsletter/"
   meetupButtonText = "Get our newsletter"
   meetupButtonLink = "https://eabelgium.org/newsletter/"
   # Remove the # before the text to add the optional Meetup button
