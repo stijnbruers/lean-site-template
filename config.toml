@@ -80,9 +80,9 @@ DefaultContentLanguage = "en"
   secondButtonText = "Join us on Twitter"
   secondButtonLink = "https://twitter.com/ea_vla"
   thirdButtonText = "Get our newsletter"
-  thirdButtonLink = "https://eabelgium.org/newsletter/"
+  thirdButtonLink = "https://us14.list-manage.com/subscribe?u=15a1d36374591e73b35be7c0e&id=6047941de9"
   meetupButtonText = "Get our newsletter"
-  meetupButtonLink = "https://eabelgium.org/newsletter/"
+  meetupButtonLink = "https://us14.list-manage.com/subscribe?u=15a1d36374591e73b35be7c0e&id=6047941de9"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -156,7 +156,7 @@ DefaultContentLanguage = "en"
   secondButtonText = "Volg ons op Twitter"
   secondButtonLink = "https://twitter.com/ea_vla"
   meetupButtonText = "Ontvang onze nieuwsbrief"
-  meetupButtonLink = "https://eabelgium.org/nl/newsletter/"
+  meetupButtonLink = "https://us14.list-manage.com/subscribe?u=15a1d36374591e73b35be7c0e&id=6047941de9"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
